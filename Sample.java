@@ -1,4 +1,4 @@
-class Sample.java{
+class Sample{
 
 System.out.println("lavanya made changes");
 
